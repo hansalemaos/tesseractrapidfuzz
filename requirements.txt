@@ -1,0 +1,5 @@
+fuzzypandaswuzzy
+multitessiocr
+numpy
+pandas
+rapidfuzz
